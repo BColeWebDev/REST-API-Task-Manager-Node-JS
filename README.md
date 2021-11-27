@@ -1,1 +1,3 @@
-# REST-API-Task-Manager-Node-JS
+#Node JS - Rest API - Task Manager
+
+noSQL database MongoDB 
